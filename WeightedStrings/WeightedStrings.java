@@ -1,3 +1,5 @@
+package WeightedStrings;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 
